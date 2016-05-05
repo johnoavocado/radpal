@@ -1,0 +1,4 @@
+1
+00:00:04,026 --> 00:00:11,032
+Radiogrāfijas jums jautās jūsu vārdu, adresi, un dzimšanas datums
+
